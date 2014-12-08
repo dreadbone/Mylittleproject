@@ -48,7 +48,6 @@
   <ItemGroup>
      <Compile Include="Assets\_Samples\Sample Assets\Cameras\Scripts\Editor\AutoCamInspector.cs" />
      <Compile Include="Assets\_Samples\Sample Assets\Cameras\Scripts\Editor\FreeLookCamInspector.cs" />
-     <Compile Include="Assets\_Samples\Sample Assets\Cross Platform Input\Scripts\Editor\CrossPlatformInputInitialize.cs" />
      <Compile Include="Assets\_Samples\Sample Assets\Vehicles\Car\Scripts\Editor\WheelEditor.cs" />
      <None Include="Assets\_Samples\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\_Samples\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
