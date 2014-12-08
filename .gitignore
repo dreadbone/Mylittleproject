@@ -1,0 +1,1789 @@
+/Assets/_Samples.meta
+/Assets/_Samples/Sample Assets.meta
+/Assets/_Samples/Sample Assets/2D.meta
+/Assets/_Samples/Sample Assets/2D/Animations.meta
+/Assets/_Samples/Sample Assets/2D/Animations/2D Character Animator.controller
+/Assets/_Samples/Sample Assets/2D/Animations/2D Character Animator.controller.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Crouch.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Crouch.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Crouching Walk.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Crouching Walk.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Falling.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Falling.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Idle.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Idle.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 1.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 1.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 10.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 10.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 11.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 11.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 2.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 2.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 3.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 3.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 4.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 4.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 5.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 5.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 6.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 6.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 7.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 7.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 8.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 8.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 9.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Jump 9.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Run.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Run.anim.meta
+/Assets/_Samples/Sample Assets/2D/Animations/Walk.anim
+/Assets/_Samples/Sample Assets/2D/Animations/Walk.anim.meta
+/Assets/_Samples/Sample Assets/2D/Materials.meta
+/Assets/_Samples/Sample Assets/2D/Materials/sprite_lit.mat
+/Assets/_Samples/Sample Assets/2D/Materials/sprite_lit.mat.meta
+/Assets/_Samples/Sample Assets/2D/Physics Materials.meta
+/Assets/_Samples/Sample Assets/2D/Physics Materials/Bouncy Box.physicsMaterial2D
+/Assets/_Samples/Sample Assets/2D/Physics Materials/Bouncy Box.physicsMaterial2D.meta
+/Assets/_Samples/Sample Assets/2D/Physics Materials/Slippery.physicsMaterial2D
+/Assets/_Samples/Sample Assets/2D/Physics Materials/Slippery.physicsMaterial2D.meta
+/Assets/_Samples/Sample Assets/2D/Prefabs.meta
+/Assets/_Samples/Sample Assets/2D/Prefabs/2D Character.prefab
+/Assets/_Samples/Sample Assets/2D/Prefabs/2D Character.prefab.meta
+/Assets/_Samples/Sample Assets/2D/Prefabs/Crate.prefab
+/Assets/_Samples/Sample Assets/2D/Prefabs/Crate.prefab.meta
+/Assets/_Samples/Sample Assets/2D/Prefabs/slider.prefab
+/Assets/_Samples/Sample Assets/2D/Prefabs/slider.prefab.meta
+/Assets/_Samples/Sample Assets/2D/Scripts.meta
+/Assets/_Samples/Sample Assets/2D/Scripts/Jump.anim
+/Assets/_Samples/Sample Assets/2D/Scripts/Jump.anim.meta
+/Assets/_Samples/Sample Assets/2D/Scripts/Restarter.cs
+/Assets/_Samples/Sample Assets/2D/Scripts/Restarter.cs.meta
+/Assets/_Samples/Sample Assets/2D/Sprites.meta
+/Assets/_Samples/Sample Assets/2D/Sprites/Character.meta
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/robotBoy_crouch.png
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/robotBoy_crouch.png.meta
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/robotBoy_death.png
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/robotBoy_death.png.meta
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/robotBoy_idle.png
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/robotBoy_idle.png.meta
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/robotBoy_jump.png
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/robotBoy_jump.png.meta
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/robotBoy_roll.png
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/robotBoy_roll.png.meta
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/robotBoy_run.png
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/robotBoy_run.png.meta
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/robotBoy_walk.png
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/robotBoy_walk.png.meta
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/Testwalk.anim
+/Assets/_Samples/Sample Assets/2D/Sprites/Character/Testwalk.anim.meta
+/Assets/_Samples/Sample Assets/2D/Sprites/prototype_blue_32x32.png
+/Assets/_Samples/Sample Assets/2D/Sprites/prototype_blue_32x32.png.meta
+/Assets/_Samples/Sample Assets/2D/Sprites/prototype_green_2x2.png
+/Assets/_Samples/Sample Assets/2D/Sprites/prototype_green_2x2.png.meta
+/Assets/_Samples/Sample Assets/2D/Sprites/prototype_grey_4x1.png
+/Assets/_Samples/Sample Assets/2D/Sprites/prototype_grey_4x1.png.meta
+/Assets/_Samples/Sample Assets/2D/Sprites/prototype_red_4x1.png
+/Assets/_Samples/Sample Assets/2D/Sprites/prototype_red_4x1.png.meta
+/Assets/_Samples/Sample Assets/Cameras.meta
+/Assets/_Samples/Sample Assets/Cameras/Camera Guidelines.txt
+/Assets/_Samples/Sample Assets/Cameras/Camera Guidelines.txt.meta
+/Assets/_Samples/Sample Assets/Cameras/Prefabs.meta
+/Assets/_Samples/Sample Assets/Cameras/Prefabs/CCTV Camera.prefab
+/Assets/_Samples/Sample Assets/Cameras/Prefabs/CCTV Camera.prefab.meta
+/Assets/_Samples/Sample Assets/Cameras/Prefabs/Free Look Camera Rig.prefab
+/Assets/_Samples/Sample Assets/Cameras/Prefabs/Free Look Camera Rig.prefab.meta
+/Assets/_Samples/Sample Assets/Cameras/Prefabs/Handheld Camera.prefab
+/Assets/_Samples/Sample Assets/Cameras/Prefabs/Handheld Camera.prefab.meta
+/Assets/_Samples/Sample Assets/Cameras/Prefabs/Multipurpose Camera Rig.prefab
+/Assets/_Samples/Sample Assets/Cameras/Prefabs/Multipurpose Camera Rig.prefab.meta
+/Assets/_Samples/Sample Assets/Cameras/Scripts.meta
+/Assets/_Samples/Sample Assets/Cameras/Scripts/AbstractTargetFollower.cs
+/Assets/_Samples/Sample Assets/Cameras/Scripts/AbstractTargetFollower.cs.meta
+/Assets/_Samples/Sample Assets/Cameras/Scripts/AutoCam.cs
+/Assets/_Samples/Sample Assets/Cameras/Scripts/AutoCam.cs.meta
+/Assets/_Samples/Sample Assets/Cameras/Scripts/Editor.meta
+/Assets/_Samples/Sample Assets/Cameras/Scripts/Editor/AutoCamInspector.cs
+/Assets/_Samples/Sample Assets/Cameras/Scripts/Editor/AutoCamInspector.cs.meta
+/Assets/_Samples/Sample Assets/Cameras/Scripts/Editor/FreeLookCamInspector.cs
+/Assets/_Samples/Sample Assets/Cameras/Scripts/Editor/FreeLookCamInspector.cs.meta
+/Assets/_Samples/Sample Assets/Cameras/Scripts/FreeLookCam.cs
+/Assets/_Samples/Sample Assets/Cameras/Scripts/FreeLookCam.cs.meta
+/Assets/_Samples/Sample Assets/Cameras/Scripts/HandHeldCam.cs
+/Assets/_Samples/Sample Assets/Cameras/Scripts/HandHeldCam.cs.meta
+/Assets/_Samples/Sample Assets/Cameras/Scripts/LookatTarget.cs
+/Assets/_Samples/Sample Assets/Cameras/Scripts/LookatTarget.cs.meta
+/Assets/_Samples/Sample Assets/Cameras/Scripts/PivotBasedCameraRig.cs
+/Assets/_Samples/Sample Assets/Cameras/Scripts/PivotBasedCameraRig.cs.meta
+/Assets/_Samples/Sample Assets/Cameras/Scripts/ProtectCameraFromWallClip.cs
+/Assets/_Samples/Sample Assets/Cameras/Scripts/ProtectCameraFromWallClip.cs.meta
+/Assets/_Samples/Sample Assets/Cameras/Scripts/TargetFieldOfView.cs
+/Assets/_Samples/Sample Assets/Cameras/Scripts/TargetFieldOfView.cs.meta
+/Assets/_Samples/Sample Assets/Characters.meta
+/Assets/_Samples/Sample Assets/Characters/First Person Character.meta
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Audio.meta
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Audio/Footstep 1.wav
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Audio/Footstep 1.wav.meta
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Audio/Footstep 2.wav
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Audio/Footstep 2.wav.meta
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Audio/Footstep 3.wav
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Audio/Footstep 3.wav.meta
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Audio/Footstep 4.wav
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Audio/Footstep 4.wav.meta
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Audio/Jump.wav
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Audio/Jump.wav.meta
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Audio/Land.wav
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Audio/Land.wav.meta
+/Assets/_Samples/Sample Assets/Characters/First Person Character/First Person Character Guidelines.txt
+/Assets/_Samples/Sample Assets/Characters/First Person Character/First Person Character Guidelines.txt.meta
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Prefabs.meta
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Prefabs/First Person Character.prefab
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Prefabs/First Person Character.prefab.meta
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Scripts.meta
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Scripts/FirstPersonCharacter.cs
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Scripts/FirstPersonCharacter.cs.meta
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Scripts/FirstPersonHeadBob.cs
+/Assets/_Samples/Sample Assets/Characters/First Person Character/Scripts/FirstPersonHeadBob.cs.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Crouch.fbx
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Crouch.fbx.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Idle Jump and Fall.fbx
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Idle Jump and Fall.fbx.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Idle.fbx
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Idle.fbx.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Jump And Fall.fbx
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Jump And Fall.fbx.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Mid Air.fbx
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Mid Air.fbx.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Run Turn Sharp.fbx
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Run Turn Sharp.fbx.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Run Turn.fbx
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Run Turn.fbx.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Run.fbx
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Run.fbx.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Stand Turn.fbx
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Stand Turn.fbx.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Walk Turn Sharp.fbx
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Walk Turn Sharp.fbx.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Walk Turn.fbx
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Walk Turn.fbx.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Walk.fbx
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animation/Walk.fbx.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animator.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animator/Third Person Animator Controller.controller
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Animator/Third Person Animator Controller.controller.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Materials.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Materials/ethan_eyes.mat
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Materials/ethan_eyes.mat.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Materials/ethan_hair.mat
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Materials/ethan_hair.mat.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Materials/ethan_plastic.mat
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Materials/ethan_plastic.mat.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Materials/ethan_skin.mat
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Materials/ethan_skin.mat.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Materials/ethan_suit.mat
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Materials/ethan_suit.mat.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Models.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Models/Ethan.fbx
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Models/Ethan.fbx.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Models/Materials.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Prefabs.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Prefabs/AI Character.prefab
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Prefabs/AI Character.prefab.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Prefabs/Third Person Character.prefab
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Prefabs/Third Person Character.prefab.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Scripts.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Scripts/AICharacterControl.cs
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Scripts/AICharacterControl.cs.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Scripts/ThirdPersonCharacter.cs
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Scripts/ThirdPersonCharacter.cs.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Scripts/ThirdPersonUserControl.cs
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Scripts/ThirdPersonUserControl.cs.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Textures.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Textures/ethan_dff.png
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Textures/ethan_dff.png.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Textures/ethan_dff.png.meta.orig
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Textures/ethan_dff.png.meta.orig.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Textures/ethan_nrm.psd
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Textures/ethan_nrm.psd.meta
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Third Person Character Guidelines.txt
+/Assets/_Samples/Sample Assets/Characters/Third Person Character/Third Person Character Guidelines.txt.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Cross Platform Input Guidelines.txt
+/Assets/_Samples/Sample Assets/Cross Platform Input/Cross Platform Input Guidelines.txt.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs/Mobile Aircraft Controls Rig - 4 axis.prefab
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs/Mobile Aircraft Controls Rig - 4 axis.prefab.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs/Mobile Car Tilt Control with Analogue Throttle Rig.prefab
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs/Mobile Car Tilt Control with Analogue Throttle Rig.prefab.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs/Mobile Car Tilt Control with Buttons Rig.prefab
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs/Mobile Car Tilt Control with Buttons Rig.prefab.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs/Mobile Character Control Rig.prefab
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs/Mobile Character Control Rig.prefab.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs/Mobile Dual Stick Control Rig.prefab
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs/Mobile Dual Stick Control Rig.prefab.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs/Mobile Simple Tilt Control Rig.prefab
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs/Mobile Simple Tilt Control Rig.prefab.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs/Mobile Single Stick Control Rig.prefab
+/Assets/_Samples/Sample Assets/Cross Platform Input/Prefabs/Mobile Single Stick Control Rig.prefab.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/AbstractButton.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/AbstractButton.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/AxisTouchButton.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/AxisTouchButton.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/Button.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/Button.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/ButtonDownTextureChange.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/ButtonDownTextureChange.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/ButtonFactory.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/ButtonFactory.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/CrossPlatformInput.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/CrossPlatformInput.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/Editor.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/Editor/CrossPlatformInputInitialize.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/Editor/CrossPlatformInputInitialize.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/Joystick.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/Joystick.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/JoystickAbstract.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/JoystickAbstract.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/MobileControlRig.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/MobileControlRig.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/PlatformSpecific.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/PlatformSpecific/MobileInput.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/PlatformSpecific/MobileInput.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/PlatformSpecific/StandaloneInput.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/PlatformSpecific/StandaloneInput.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/TiltInput.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/TiltInput.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/TouchJoystick.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/TouchJoystick.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/TouchPad.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/TouchPad.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/TouchPadPositional.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/TouchPadPositional.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/TouchPadRelativePositional.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/TouchPadRelativePositional.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/TouchPadSwipe.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/TouchPadSwipe.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/VirtualInput.cs
+/Assets/_Samples/Sample Assets/Cross Platform Input/Scripts/VirtualInput.cs.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_accelerator.png
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_accelerator.png.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_arrow_left.png
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_arrow_left.png.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_arrow_right.png
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_arrow_right.png.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_brake_button.png
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_brake_button.png.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_brake_pedal.png
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_brake_pedal.png.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_button_jump.png
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_button_jump.png.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_joystick.png
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_joystick.png.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_slider_background.png
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_slider_background.png.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_slider_button.png
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_slider_button.png.meta
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_touchZone_background.png
+/Assets/_Samples/Sample Assets/Cross Platform Input/Textures/gui_touchZone_background.png.meta
+/Assets/_Samples/Sample Assets/Effects.meta
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only).meta
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Editor.meta
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Editor/Image Effects.meta
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Editor/Image Effects/DepthOfFieldScatterEditor.js
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Editor/Image Effects/DepthOfFieldScatterEditor.js.meta
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Scripts.meta
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Scripts/DepthOfFieldScatter.js
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Scripts/DepthOfFieldScatter.js.meta
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Scripts/PostEffectsBase.js
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Scripts/PostEffectsBase.js.meta
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Shaders.meta
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Shaders/_DepthOfField.meta
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Shaders/_DepthOfField/DepthOfFieldDX11.shader
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Shaders/_DepthOfField/DepthOfFieldDX11.shader.meta
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Shaders/_DepthOfField/DepthOfFieldScatter.shader
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Shaders/_DepthOfField/DepthOfFieldScatter.shader.meta
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Textures.meta
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Textures/cookie_hex.psd
+/Assets/_Samples/Sample Assets/Effects/Image Effects (Pro Only)/Textures/cookie_hex.psd.meta
+/Assets/_Samples/Sample Assets/Effects/Light Cookies.meta
+/Assets/_Samples/Sample Assets/Effects/Light Cookies/Textures.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Editor.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Editor/LightShaftsEditor.js
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Editor/LightShaftsEditor.js.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Light Shafts Guidelines.txt
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Light Shafts Guidelines.txt.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Materials.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Materials/glass_stained.mat
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Materials/glass_stained.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Scenes.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Scenes/LightShaft Directional.unity
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Scenes/LightShaft Directional.unity.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Scenes/LightShaft Spot.unity
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Scenes/LightShaft Spot.unity.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Scripts.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Scripts/LightShafts.cs
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Scripts/LightShafts.cs.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Scripts/LightShafts.Resources.cs
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Scripts/LightShafts.Resources.cs.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Scripts/LightShafts.Utils.cs
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Scripts/LightShafts.Utils.cs.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/ColorFilter.shader
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/ColorFilter.shader.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/Coord.shader
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/Coord.shader.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/Depth.shader
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/Depth.shader.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/DepthBreaks.shader
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/DepthBreaks.shader.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/FinalInterpolation.shader
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/FinalInterpolation.shader.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/InterpolateAlongRays.shader
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/InterpolateAlongRays.shader.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/Raymarch.shader
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/Raymarch.shader.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/SamplePositions.shader
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/SamplePositions.shader.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/Shared.cginc
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Shaders/Shared.cginc.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Textures.meta
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Textures/glass_stained_dff.png
+/Assets/_Samples/Sample Assets/Effects/Light Shafts/Textures/glass_stained_dff.png.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Audio.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Audio/Fire.wav
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Audio/Fire.wav.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Audio/Firey Explosion.wav
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Audio/Firey Explosion.wav.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_afterburner.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_afterburner.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_duststorm.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_duststorm.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_fireball.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_fireball.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_fireCloud.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_fireCloud.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_firework.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_firework.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_flame_licks.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_flame_licks.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_flames.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_flames.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_glow.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_glow.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_smoke_black.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_smoke_black.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_smoke_mobile.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_smoke_mobile.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_smoke_vertlit.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_smoke_vertlit.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_smoke_white.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_smoke_white.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_spark.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_spark.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_splashes.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_splashes.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_spray.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_spray.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_steam.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_steam.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_steam_mobile.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_steam_mobile.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_water_spray.mat
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Materials/part_water_spray.mat.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Particle Systems Guidelines.txt
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Particle Systems Guidelines.txt.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Afterburner.prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Afterburner.prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/DustStorm (Mobile).prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/DustStorm (Mobile).prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/DustStorm.prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/DustStorm.prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Explosion (Mobile).prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Explosion (Mobile).prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Explosion.prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Explosion.prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Fire (Complex).prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Fire (Complex).prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Fire (Mobile).prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Fire (Mobile).prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Fireworks.prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Fireworks.prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Flare (Mobile).prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Flare (Mobile).prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Flare.prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Flare.prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Hose (Mobile).prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Hose (Mobile).prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Hose.prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Hose.prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Smoke.prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Smoke.prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Steam (Mobile).prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Steam (Mobile).prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Steam.prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Steam.prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Tyre Burnout Smoke.prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Tyre Burnout Smoke.prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Wild Fire.prefab
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Prefabs/Wild Fire.prefab.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/AfterburnerPhysicsForce.cs
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/AfterburnerPhysicsForce.cs.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/ExplosionFireAndDebris.cs
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/ExplosionFireAndDebris.cs.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/ExplosionPhysicsForce.cs
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/ExplosionPhysicsForce.cs.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/Explosive.cs
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/Explosive.cs.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/ExtinguishableParticleSystem.cs
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/ExtinguishableParticleSystem.cs.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/FireLight.cs
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/FireLight.cs.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/Hose.cs
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/Hose.cs.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/ParticleSystemMultiplier.cs
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/ParticleSystemMultiplier.cs.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/SmokeParticles.cs
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/SmokeParticles.cs.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/WaterHoseParticles.cs
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/scripts/WaterHoseParticles.cs.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Shaders.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Shaders/Priority Particle Add (Soft).shader
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Shaders/Priority Particle Add (Soft).shader.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Shaders/Priority Particle Add.shader
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Shaders/Priority Particle Add.shader.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Shaders/Priority Particle Alpha.shader
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Shaders/Priority Particle Alpha.shader.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_bokeh_dff.png
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_bokeh_dff.png.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_cloud_black_dff.png
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_cloud_black_dff.png.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_cloud_white_alpha_dff.png
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_cloud_white_alpha_dff.png.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_cloud_white_dff.png
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_cloud_white_dff.png.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_fireball_sheet_dff.psd
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_fireball_sheet_dff.psd.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_firecloud_dff.png
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_firecloud_dff.png.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_flame_lick_sheet_dff.psd
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_flame_lick_sheet_dff.psd.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_flames_dff.png
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_flames_dff.png.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_flare_dff.png
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_flare_dff.png.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_spark_dff.png
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_spark_dff.png.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_splashes_fine_dff.png
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_splashes_fine_dff.png.meta
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_splashes_large_dff.png
+/Assets/_Samples/Sample Assets/Effects/Particle Systems/Textures/part_splashes_large_dff.png.meta
+/Assets/_Samples/Sample Assets/Effects/Projectors.meta
+/Assets/_Samples/Sample Assets/Effects/Projectors/Shaders.meta
+/Assets/_Samples/Sample Assets/Effects/Projectors/Shaders/Projector Additive.shader
+/Assets/_Samples/Sample Assets/Effects/Projectors/Shaders/Projector Additive.shader.meta
+/Assets/_Samples/Sample Assets/Effects/Shaders.meta
+/Assets/_Samples/Sample Assets/Effects/Shaders/Mobile-Spec.shader
+/Assets/_Samples/Sample Assets/Effects/Shaders/Mobile-Spec.shader.meta
+/Assets/_Samples/Sample Assets/Effects/Tessellation Shaders.meta
+/Assets/_Samples/Sample Assets/Effects/Tessellation Shaders/Materials.meta
+/Assets/_Samples/Sample Assets/Effects/Tessellation Shaders/Models.meta
+/Assets/_Samples/Sample Assets/Effects/Tessellation Shaders/Shaders.meta
+/Assets/_Samples/Sample Assets/Effects/Tessellation Shaders/Textures.meta
+/Assets/_Samples/Sample Assets/Effects/Toon Shading.meta
+/Assets/_Samples/Sample Assets/Effects/Toon Shading/Materials.meta
+/Assets/_Samples/Sample Assets/Effects/Toon Shading/Scenes.meta
+/Assets/_Samples/Sample Assets/Environment.meta
+/Assets/_Samples/Sample Assets/Environment/Skyboxes.meta
+/Assets/_Samples/Sample Assets/Environment/Skyboxes/Materials.meta
+/Assets/_Samples/Sample Assets/Physics Materials.meta
+/Assets/_Samples/Sample Assets/Physics Materials/Max Friction.physicMaterial
+/Assets/_Samples/Sample Assets/Physics Materials/Max Friction.physicMaterial.meta
+/Assets/_Samples/Sample Assets/Physics Materials/Zero Friction.physicMaterial
+/Assets/_Samples/Sample Assets/Physics Materials/Zero Friction.physicMaterial.meta
+/Assets/_Samples/Sample Assets/Prototyping.meta
+/Assets/_Samples/Sample Assets/Prototyping/Materials.meta
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_black_grid.mat
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_black_grid.mat.meta
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_black_smooth.mat
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_black_smooth.mat.meta
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_blue_grid.mat
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_blue_grid.mat.meta
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_blue_smooth.mat
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_blue_smooth.mat.meta
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_checker.mat
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_checker.mat.meta
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_green_grid.mat
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_green_grid.mat.meta
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_green_smooth.mat
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_green_smooth.mat.meta
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_green_transparent.mat
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_green_transparent.mat.meta
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_grey_grid.mat
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_grey_grid.mat.meta
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_grey_smooth.mat
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_grey_smooth.mat.meta
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_white_grid.mat
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_white_grid.mat.meta
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_white_smooth.mat
+/Assets/_Samples/Sample Assets/Prototyping/Materials/prototype_white_smooth.mat.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_block_4x4x4.fbx
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_block_4x4x4.fbx.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_cube_2x2x2.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_cube_2x2x2.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_cube_4x4x4.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_cube_4x4x4.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_cube_8x8x8.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_cube_8x8x8.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_environment.fbx
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_environment.fbx.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_floor.fbx
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_floor.fbx.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_floor_4x1x4.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_floor_4x1x4.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_floor_64x1x64.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_floor_64x1x64.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_floor_8x1x8.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_floor_8x1x8.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_house_16x16x24.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_house_16x16x24.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_join_inner_1x6x1.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_join_inner_1x6x1.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_join_mid_4x6x1.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_join_mid_4x6x1.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_join_outer_2x6x2.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_join_outer_2x6x2.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_loop.fbx
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_loop.fbx.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_pickup.fbx
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_pickup.fbx.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_pillar_1x2x1.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_pillar_1x2x1.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_pillar_2x8x2.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_pillar_2x8x2.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_platform_2x1x2.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_platform_2x1x2.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_platform_4x1x4.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_platform_4x1x4.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_platform_8x1x8.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_platform_8x1x8.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_ramp_4x2x2.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_ramp_4x2x2.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_ring.fbx
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_ring.fbx.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_steps_4x2x2.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_steps_4x2x2.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_wall_8x8x1.FBX
+/Assets/_Samples/Sample Assets/Prototyping/Models/prototype_wall_8x8x1.FBX.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Block 4x4x4.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Block 4x4x4.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Box Pile.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Box Pile.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Elevated Track - Multi Level.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Elevated Track - Multi Level.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Elevated Track.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Elevated Track.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Floor_Tile.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Floor_Tile.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Goal Posts.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Goal Posts.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Jump Ramp.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Jump Ramp.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Mini Ramps.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Mini Ramps.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Platforms.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Platforms.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Smash Boxes Platform.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Smash Boxes Platform.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Smash Boxes.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Smash Boxes.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Smash Platform.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Smash Platform.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Steps.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Steps.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Wide Low Platform.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Wide Low Platform.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Wide Ramp.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Compound Prefabs/Wide Ramp.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Cube 2x2x2.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Cube 2x2x2.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Cube 4x4x4.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Cube 4x4x4.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Cube 8x8x8.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Cube 8x8x8.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Extents.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Extents.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Floor 4x1x4.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Floor 4x1x4.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Floor 64x1x64.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Floor 64x1x64.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Floor 8x1x8.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Floor 8x1x8.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/House 16x16x24.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/House 16x16x24.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Join Inner 1x6x1.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Join Inner 1x6x1.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Join Mid 4x6x1.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Join Mid 4x6x1.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Join Outer 2x6x2.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Join Outer 2x6x2.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Loop.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Loop.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Pillar 1x2x1.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Pillar 1x2x1.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Pillar 2x8x2.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Pillar 2x8x2.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Platform 2x1x2.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Platform 2x1x2.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Platform 4x1x4.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Platform 4x1x4.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Platform 8x1x8.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Platform 8x1x8.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Question Coin.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Question Coin.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Ramp 4x2x2.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Ramp 4x2x2.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Ring.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Ring.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Sandbox Terrain.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Sandbox Terrain.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Steps 4x2x2.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Steps 4x2x2.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Wall 8x8x1.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Wall 8x8x1.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Wall.prefab
+/Assets/_Samples/Sample Assets/Prototyping/Prefabs/Wall.prefab.meta
+/Assets/_Samples/Sample Assets/Prototyping/Shaders.meta
+/Assets/_Samples/Sample Assets/Prototyping/Shaders/WorldCoord Diffuse.shader
+/Assets/_Samples/Sample Assets/Prototyping/Shaders/WorldCoord Diffuse.shader.meta
+/Assets/_Samples/Sample Assets/Prototyping/Textures.meta
+/Assets/_Samples/Sample Assets/Prototyping/Textures/prototype_black_dff.png
+/Assets/_Samples/Sample Assets/Prototyping/Textures/prototype_black_dff.png.meta
+/Assets/_Samples/Sample Assets/Prototyping/Textures/prototype_blue_dff.png
+/Assets/_Samples/Sample Assets/Prototyping/Textures/prototype_blue_dff.png.meta
+/Assets/_Samples/Sample Assets/Prototyping/Textures/prototype_checker_dff.png
+/Assets/_Samples/Sample Assets/Prototyping/Textures/prototype_checker_dff.png.meta
+/Assets/_Samples/Sample Assets/Prototyping/Textures/prototype_green_dff.png
+/Assets/_Samples/Sample Assets/Prototyping/Textures/prototype_green_dff.png.meta
+/Assets/_Samples/Sample Assets/Prototyping/Textures/prototype_grey_dff.png
+/Assets/_Samples/Sample Assets/Prototyping/Textures/prototype_grey_dff.png.meta
+/Assets/_Samples/Sample Assets/Prototyping/Textures/prototype_white_dff.png
+/Assets/_Samples/Sample Assets/Prototyping/Textures/prototype_white_dff.png.meta
+/Assets/_Samples/Sample Assets/Sample Scenes.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Materials.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Materials/fx_clouds.mat
+/Assets/_Samples/Sample Assets/Sample Scenes/Materials/fx_clouds.mat.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Materials/gui_reticle.mat
+/Assets/_Samples/Sample Assets/Sample Scenes/Materials/gui_reticle.mat.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Materials/gui_reticle_projector.mat
+/Assets/_Samples/Sample Assets/Sample Scenes/Materials/gui_reticle_projector.mat.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs/Camera Switch Button.prefab
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs/Camera Switch Button.prefab.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs/Clouds.prefab
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs/Clouds.prefab.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs/Controller Selector Buttons.prefab
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs/Controller Selector Buttons.prefab.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs/Lights.prefab
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs/Lights.prefab.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs/Mobile Shader Replacements.prefab
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs/Mobile Shader Replacements.prefab.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs/Resetter.prefab
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs/Resetter.prefab.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs/Target Picker.prefab
+/Assets/_Samples/Sample Assets/Sample Scenes/Prefabs/Target Picker.prefab.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/2D Character.unity
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/2D Character.unity.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/AI Car.unity
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/AI Car.unity.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/AI Character.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/AI Character.unity
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/AI Character.unity.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/AI Character/NavMesh.asset
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/AI Character/NavMesh.asset.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/AI Jet Plane.unity
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/AI Jet Plane.unity.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/AI Propeller Plane.unity
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/AI Propeller Plane.unity.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/AI Waypoint-Based Car.unity
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/AI Waypoint-Based Car.unity.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/Car.unity
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/Car.unity.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/First Person Character.unity
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/First Person Character.unity.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/Jet Plane (2 Axis).unity
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/Jet Plane (2 Axis).unity.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/Particles.unity
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/Particles.unity.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/Propeller Plane (4 Axis).unity
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/Propeller Plane (4 Axis).unity.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/Rolling Ball.unity
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/Rolling Ball.unity.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/Third Person Character.unity
+/Assets/_Samples/Sample Assets/Sample Scenes/Scenes/Third Person Character.unity.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scripts.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scripts/Clouds.cs
+/Assets/_Samples/Sample Assets/Sample Scenes/Scripts/Clouds.cs.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scripts/ParticleSceneControls.cs
+/Assets/_Samples/Sample Assets/Sample Scenes/Scripts/ParticleSceneControls.cs.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scripts/PlaceTargetWithMouse.cs
+/Assets/_Samples/Sample Assets/Sample Scenes/Scripts/PlaceTargetWithMouse.cs.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Scripts/SlowMoButton.cs
+/Assets/_Samples/Sample Assets/Sample Scenes/Scripts/SlowMoButton.cs.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_button_empty.png
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_button_empty.png.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_button_reset.png
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_button_reset.png.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_button_run.png
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_button_run.png.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_button_switch_left.png
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_button_switch_left.png.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_button_switch_right.png
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_button_switch_right.png.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_camera_cycle.png
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_camera_cycle.png.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_camera_cycle_down.png
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_camera_cycle_down.png.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_reticle.png
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_reticle.png.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_timescale_full.png
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_timescale_full.png.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_timescale_slow.png
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/gui_timescale_slow.png.meta
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/PetitaMedium.ttf
+/Assets/_Samples/Sample Assets/Sample Scenes/Textures/PetitaMedium.ttf.meta
+/Assets/_Samples/Sample Assets/Utility.meta
+/Assets/_Samples/Sample Assets/Utility/AutoMobileShaderSwitch.cs
+/Assets/_Samples/Sample Assets/Utility/AutoMobileShaderSwitch.cs.meta
+/Assets/_Samples/Sample Assets/Utility/AutoMoveAndRotate.cs
+/Assets/_Samples/Sample Assets/Utility/AutoMoveAndRotate.cs.meta
+/Assets/_Samples/Sample Assets/Utility/CombineChildren.cs
+/Assets/_Samples/Sample Assets/Utility/CombineChildren.cs.meta
+/Assets/_Samples/Sample Assets/Utility/DynamicShadowSettings.cs
+/Assets/_Samples/Sample Assets/Utility/DynamicShadowSettings.cs.meta
+/Assets/_Samples/Sample Assets/Utility/FollowTarget.cs
+/Assets/_Samples/Sample Assets/Utility/FollowTarget.cs.meta
+/Assets/_Samples/Sample Assets/Utility/ForcedReset.cs
+/Assets/_Samples/Sample Assets/Utility/ForcedReset.cs.meta
+/Assets/_Samples/Sample Assets/Utility/FPSCounter.cs
+/Assets/_Samples/Sample Assets/Utility/FPSCounter.cs.meta
+/Assets/_Samples/Sample Assets/Utility/MeshCombineUtility.cs
+/Assets/_Samples/Sample Assets/Utility/MeshCombineUtility.cs.meta
+/Assets/_Samples/Sample Assets/Utility/ObjectResetter.cs
+/Assets/_Samples/Sample Assets/Utility/ObjectResetter.cs.meta
+/Assets/_Samples/Sample Assets/Utility/ParticleSystemDestroyer.cs
+/Assets/_Samples/Sample Assets/Utility/ParticleSystemDestroyer.cs.meta
+/Assets/_Samples/Sample Assets/Utility/PlatformSpecificContent.cs
+/Assets/_Samples/Sample Assets/Utility/PlatformSpecificContent.cs.meta
+/Assets/_Samples/Sample Assets/Utility/Prefabs.meta
+/Assets/_Samples/Sample Assets/Utility/Prefabs/Framerate Counter.prefab
+/Assets/_Samples/Sample Assets/Utility/Prefabs/Framerate Counter.prefab.meta
+/Assets/_Samples/Sample Assets/Utility/SimpleActivatorMenu.cs
+/Assets/_Samples/Sample Assets/Utility/SimpleActivatorMenu.cs.meta
+/Assets/_Samples/Sample Assets/Utility/SimpleMouseRotator.cs
+/Assets/_Samples/Sample Assets/Utility/SimpleMouseRotator.cs.meta
+/Assets/_Samples/Sample Assets/Utility/TimedObjectActivator.cs
+/Assets/_Samples/Sample Assets/Utility/TimedObjectActivator.cs.meta
+/Assets/_Samples/Sample Assets/Utility/WaypointCircuit.cs
+/Assets/_Samples/Sample Assets/Utility/WaypointCircuit.cs.meta
+/Assets/_Samples/Sample Assets/Utility/WaypointProgressTracker.cs
+/Assets/_Samples/Sample Assets/Utility/WaypointProgressTracker.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Aircraft Guidelines.txt
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Aircraft Guidelines.txt.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Jet Gear Lower.anim
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Jet Gear Lower.anim.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Jet Gear Lowered.anim
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Jet Gear Lowered.anim.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Jet Gear Raise.anim
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Jet Gear Raise.anim.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Jet Gear Raised.anim
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Jet Gear Raised.anim.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Jet Plane.controller
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Jet Plane.controller.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Prop Gear Lower.anim
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Prop Gear Lower.anim.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Prop Gear Lowered.anim
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Prop Gear Lowered.anim.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Prop Gear Raise.anim
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Prop Gear Raise.anim.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Prop Gear Raised.anim
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Prop Gear Raised.anim.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Prop Plane.controller
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Animation/Prop Plane.controller.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Audio.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Audio/Flight Wind.wav
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Audio/Flight Wind.wav.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Audio/Jet Engine.wav
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Audio/Jet Engine.wav.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Audio/Propeller Engine.wav
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Audio/Propeller Engine.wav.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_generic_beacon.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_generic_beacon.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_generic_glass.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_generic_glass.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_generic_LOD.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_generic_LOD.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_generic_metal.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_generic_metal.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_generic_paint.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_generic_paint.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_generic_rubber.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_generic_rubber.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_jet_LOD.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_jet_LOD.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_jet_metal_dull.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_jet_metal_dull.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_jet_metal_shiny.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_jet_metal_shiny.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_jet_paint.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_jet_paint.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_jet_rubber.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_jet_rubber.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_blur.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_blur.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_glass.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_glass.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_LOD.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_LOD.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_metal_dull.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_metal_dull.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_metal_shiny.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_metal_shiny.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_paint.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_paint.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_propeller.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_propeller.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_rubber.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/aircraft_prop_rubber.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/fx_jetTrail.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/fx_jetTrail.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/part_afterburner.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/part_afterburner.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/part_contrail.mat
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Materials/part_contrail.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Models.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Models/aircraft_generic.FBX
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Models/aircraft_generic.FBX.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Models/aircraft_jet.fbx
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Models/aircraft_jet.fbx.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Models/aircraft_prop.fbx
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Models/aircraft_prop.fbx.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Prefabs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Prefabs/Aeroplane GUI.prefab
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Prefabs/Aeroplane GUI.prefab.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Prefabs/AI Jet Plane.prefab
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Prefabs/AI Jet Plane.prefab.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Prefabs/AI Propeller Plane.prefab
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Prefabs/AI Propeller Plane.prefab.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Prefabs/Jet Plane.prefab
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Prefabs/Jet Plane.prefab.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Prefabs/Propeller Plane.prefab
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Prefabs/Propeller Plane.prefab.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplaneAIControl.cs
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplaneAIControl.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplaneAudio.cs
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplaneAudio.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplaneController.cs
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplaneController.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplaneControlSurfaceAnimator.cs
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplaneControlSurfaceAnimator.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplaneGUI.cs
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplaneGUI.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplanePropellerAnimator.cs
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplanePropellerAnimator.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplaneUserControl2Axis.cs
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplaneUserControl2Axis.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplaneUserControl4Axis.cs
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/AeroplaneUserControl4Axis.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/JetParticleEffect.cs
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/JetParticleEffect.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/LandingGear.cs
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Scripts/LandingGear.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_generic_dff.png
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_generic_dff.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_generic_dff.png.meta.orig
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_generic_dff.png.meta.orig.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_generic_nrm.png
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_generic_nrm.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_generic_nrm.png.meta.orig
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_generic_nrm.png.meta.orig.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_jet_dff.png
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_jet_dff.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_jet_dff.png.meta.orig
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_jet_dff.png.meta.orig.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_jet_nrm.png
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_jet_nrm.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_jet_nrm.png.meta.orig
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_jet_nrm.png.meta.orig.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_prop_blur01_dff.png
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_prop_blur01_dff.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_prop_blur02_dff.png
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_prop_blur02_dff.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_prop_blur03_dff.png
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_prop_blur03_dff.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_prop_dff.png
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_prop_dff.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_prop_dff.png.meta.orig
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_prop_dff.png.meta.orig.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_prop_nrm.png
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/aircraft_prop_nrm.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/sandbox_sharp.cubemap
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/sandbox_sharp.cubemap.meta
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/sandbox_soft.cubemap
+/Assets/_Samples/Sample Assets/Vehicles/Aircraft/Textures/sandbox_soft.cubemap.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio/Crash Hard.wav
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio/Crash Hard.wav.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio/Crash Soft.wav
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio/Crash Soft.wav.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio/High Acceleration.wav
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio/High Acceleration.wav.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio/High Deceleration.wav
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio/High Deceleration.wav.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio/Low Acceleration.wav
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio/Low Acceleration.wav.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio/Low Deceleration.wav
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio/Low Deceleration.wav.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio/Skid.wav
+/Assets/_Samples/Sample Assets/Vehicles/Car/Audio/Skid.wav.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Car Guidelines.txt
+/Assets/_Samples/Sample Assets/Vehicles/Car/Car Guidelines.txt.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/fx_glow_blue.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/fx_glow_blue.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/part_smoke_white.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/part_smoke_white.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_glass.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_glass.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_lightCovers.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_lightCovers.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_lightGlows.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_lightGlows.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_metal_brushed.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_metal_brushed.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_paint_gunmetal.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_paint_gunmetal.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_paint_orange.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_paint_orange.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_paint_red.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_paint_red.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_paint_white.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_paint_white.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_paint_yellow.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_paint_yellow.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_plastics.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_plastics.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_plate.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_plate.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_underside.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_underside.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_wheel.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_wheel.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_wheel_alloy.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_wheel_alloy.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_wheel_glow.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_wheel_glow.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_wheel_rubber.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Materials/skyCar_wheel_rubber.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Models.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Models/skyCar.fbx
+/Assets/_Samples/Sample Assets/Vehicles/Car/Models/skyCar.fbx.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Prefabs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Prefabs/AI Car.prefab
+/Assets/_Samples/Sample Assets/Vehicles/Car/Prefabs/AI Car.prefab.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Prefabs/AI Waypoint-Based Car.prefab
+/Assets/_Samples/Sample Assets/Vehicles/Car/Prefabs/AI Waypoint-Based Car.prefab.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Prefabs/Car Empty Prefab.prefab
+/Assets/_Samples/Sample Assets/Vehicles/Car/Prefabs/Car Empty Prefab.prefab.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Prefabs/Car GUI.prefab
+/Assets/_Samples/Sample Assets/Vehicles/Car/Prefabs/Car GUI.prefab.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Prefabs/Car.prefab
+/Assets/_Samples/Sample Assets/Vehicles/Car/Prefabs/Car.prefab.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/BrakeLight.cs
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/BrakeLight.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/CarAIControl.cs
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/CarAIControl.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/CarAudio.cs
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/CarAudio.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/CarController.cs
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/CarController.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/CarGUI.cs
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/CarGUI.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/CarSelfRighting.cs
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/CarSelfRighting.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/CarUserControl.cs
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/CarUserControl.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/Editor.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/Editor/WheelEditor.cs
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/Editor/WheelEditor.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/Mudguard.cs
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/Mudguard.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/SkidTrail.cs
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/SkidTrail.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/Suspension.cs
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/Suspension.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/Wheel.cs
+/Assets/_Samples/Sample Assets/Vehicles/Car/Scripts/Wheel.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Shaders.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Shaders/DiffuseReflectiveShader.shader
+/Assets/_Samples/Sample Assets/Vehicles/Car/Shaders/DiffuseReflectiveShader.shader.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Shaders/ReflectiveDiffuseSpec.shader
+/Assets/_Samples/Sample Assets/Vehicles/Car/Shaders/ReflectiveDiffuseSpec.shader.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Shaders/ReflectiveDiffuseSpecTransp.shader
+/Assets/_Samples/Sample Assets/Vehicles/Car/Shaders/ReflectiveDiffuseSpecTransp.shader.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Skid.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Skid/fx_skid.mat
+/Assets/_Samples/Sample Assets/Vehicles/Car/Skid/fx_skid.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Skid/Skid Trail Prefab.prefab
+/Assets/_Samples/Sample Assets/Vehicles/Car/Skid/Skid Trail Prefab.prefab.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/part_cloud_white_alpha_dff.png
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/part_cloud_white_alpha_dff.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_body_dff.png
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_body_dff.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_body_nrm.png
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_body_nrm.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_lights_glw.png
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_lights_glw.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_plate_dff.png
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_plate_dff.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_plate_nrm.png
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_plate_nrm.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_underside_dff.png
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_underside_dff.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_underside_nrm.png
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_underside_nrm.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_wheel_dff.png
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_wheel_dff.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_wheel_nrm.png
+/Assets/_Samples/Sample Assets/Vehicles/Car/Textures/skyCar_wheel_nrm.png.meta
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball.meta
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Materials.meta
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Materials/rollingBall_metal.mat
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Materials/rollingBall_metal.mat.meta
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Models.meta
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Models/rollingBall.fbx
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Models/rollingBall.fbx.meta
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Prefabs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Prefabs/Ball.prefab
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Prefabs/Ball.prefab.meta
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Rolling Ball Guidelines.txt
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Rolling Ball Guidelines.txt.meta
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Scripts.meta
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Scripts/Ball.cs
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Scripts/Ball.cs.meta
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Scripts/BallUserControl.cs
+/Assets/_Samples/Sample Assets/Vehicles/Rolling Ball/Scripts/BallUserControl.cs.meta
+/Assets/_Samples/Standard Assets (Mobile).meta
+/Assets/_Samples/Standard Assets (Mobile)/Control Setups.meta
+/Assets/_Samples/Standard Assets (Mobile)/Control Setups/CameraRelativeSetup.unity
+/Assets/_Samples/Standard Assets (Mobile)/Control Setups/CameraRelativeSetup.unity.meta
+/Assets/_Samples/Standard Assets (Mobile)/Control Setups/FirstPersonSetup.unity
+/Assets/_Samples/Standard Assets (Mobile)/Control Setups/FirstPersonSetup.unity.meta
+/Assets/_Samples/Standard Assets (Mobile)/Control Setups/FirstPersonTilt.unity
+/Assets/_Samples/Standard Assets (Mobile)/Control Setups/FirstPersonTilt.unity.meta
+/Assets/_Samples/Standard Assets (Mobile)/Control Setups/PlayerRelativeSetup.unity
+/Assets/_Samples/Standard Assets (Mobile)/Control Setups/PlayerRelativeSetup.unity.meta
+/Assets/_Samples/Standard Assets (Mobile)/Control Setups/SidescrollSetup.unity
+/Assets/_Samples/Standard Assets (Mobile)/Control Setups/SidescrollSetup.unity.meta
+/Assets/_Samples/Standard Assets (Mobile)/Control Setups/TapControlSetup.unity
+/Assets/_Samples/Standard Assets (Mobile)/Control Setups/TapControlSetup.unity.meta
+/Assets/_Samples/Standard Assets (Mobile)/Materials.meta
+/Assets/_Samples/Standard Assets (Mobile)/Materials/grid.mat
+/Assets/_Samples/Standard Assets (Mobile)/Materials/grid.mat.meta
+/Assets/_Samples/Standard Assets (Mobile)/Materials/gridFor2D.mat
+/Assets/_Samples/Standard Assets (Mobile)/Materials/gridFor2D.mat.meta
+/Assets/_Samples/Standard Assets (Mobile)/Materials/skybox.mat
+/Assets/_Samples/Standard Assets (Mobile)/Materials/skybox.mat.meta
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs.meta
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/2D Side Scroller.prefab
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/2D Side Scroller.prefab.meta
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Camera Relative Controls.prefab
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Camera Relative Controls.prefab.meta
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Dual Joysticks.prefab
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Dual Joysticks.prefab.meta
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Dual TouchPads.prefab
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Dual TouchPads.prefab.meta
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/First Person Controls.prefab
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/First Person Controls.prefab.meta
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/First Person Tilt Controls.prefab
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/First Person Tilt Controls.prefab.meta
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Player Relative Controls.prefab
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Player Relative Controls.prefab.meta
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Roll A Ball.prefab
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Roll A Ball.prefab.meta
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Single Joystick.prefab
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Single Joystick.prefab.meta
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Single TouchPad.prefab
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Single TouchPad.prefab.meta
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Skybox.fbx
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/Skybox.fbx.meta
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/TapToMove Controls.prefab
+/Assets/_Samples/Standard Assets (Mobile)/Prefabs/TapToMove Controls.prefab.meta
+/Assets/_Samples/Standard Assets (Mobile)/Scripts.meta
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/CameraRelativeControl.js
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/CameraRelativeControl.js.meta
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/FirstPersonControl.js
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/FirstPersonControl.js.meta
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/FollowTransform.js
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/FollowTransform.js.meta
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/Joystick.js
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/Joystick.js.meta
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/ObliqueNear.js
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/ObliqueNear.js.meta
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/PlayerRelativeControl.js
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/PlayerRelativeControl.js.meta
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/RollABall.js
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/RollABall.js.meta
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/RotationConstraint.js
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/RotationConstraint.js.meta
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/SidescrollControl.js
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/SidescrollControl.js.meta
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/SmoothFollow2D.js
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/SmoothFollow2D.js.meta
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/tapcontrol.js
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/tapcontrol.js.meta
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/ZoomCamera.js
+/Assets/_Samples/Standard Assets (Mobile)/Scripts/ZoomCamera.js.meta
+/Assets/_Samples/Standard Assets (Mobile)/Shaders.meta
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Lightmap Shaders (Legacy).meta
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Lightmap Shaders (Legacy)/Mobile Lightmap AlphaTest.shader
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Lightmap Shaders (Legacy)/Mobile Lightmap AlphaTest.shader.meta
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Lightmap Shaders (Legacy)/Mobile Lightmap Only.shader
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Lightmap Shaders (Legacy)/Mobile Lightmap Only.shader.meta
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Lightmap Shaders (Legacy)/Mobile Lightmap Reflective.shader
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Lightmap Shaders (Legacy)/Mobile Lightmap Reflective.shader.meta
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Miscellaneous Shaders.meta
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Miscellaneous Shaders/Mobile Background.shader
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Miscellaneous Shaders/Mobile Background.shader.meta
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Miscellaneous Shaders/Mobile Detail.shader
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Miscellaneous Shaders/Mobile Detail.shader.meta
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Particle Shaders.meta
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Particle Shaders/Mobile Multiply Culled.shader
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Particle Shaders/Mobile Multiply Culled.shader.meta
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Particle Shaders/Mobile Particles Additive Culled.shader
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Particle Shaders/Mobile Particles Additive Culled.shader.meta
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Vertex Colored Shaders.meta
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Vertex Colored Shaders/Mobile Transparent Vertex Color.shader
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Vertex Colored Shaders/Mobile Transparent Vertex Color.shader.meta
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Vertex Colored Shaders/Mobile Vertex Colored.shader
+/Assets/_Samples/Standard Assets (Mobile)/Shaders/Vertex Colored Shaders/Mobile Vertex Colored.shader.meta
+/Assets/_Samples/Standard Assets (Mobile)/Textures.meta
+/Assets/_Samples/Standard Assets (Mobile)/Textures/grid.psd
+/Assets/_Samples/Standard Assets (Mobile)/Textures/grid.psd.meta
+/Assets/_Samples/Standard Assets (Mobile)/Textures/JoystickThumb.psd
+/Assets/_Samples/Standard Assets (Mobile)/Textures/JoystickThumb.psd.meta
+/Assets/_Samples/Standard Assets (Mobile)/Textures/skyBox.tga
+/Assets/_Samples/Standard Assets (Mobile)/Textures/skyBox.tga.meta
+/Assets/_Samples/Standard Assets (Mobile)/Textures/ThumbAreaLeft.psd
+/Assets/_Samples/Standard Assets (Mobile)/Textures/ThumbAreaLeft.psd.meta
+/Assets/_Samples/Standard Assets (Mobile)/Textures/ThumbAreaRight.psd
+/Assets/_Samples/Standard Assets (Mobile)/Textures/ThumbAreaRight.psd.meta
+/Assets/_Samples/Standard Assets.meta
+/Assets/_Samples/Standard Assets/Character Controllers.meta
+/Assets/_Samples/Standard Assets/Character Controllers/3rd Person Controller.prefab
+/Assets/_Samples/Standard Assets/Character Controllers/3rd Person Controller.prefab.meta
+/Assets/_Samples/Standard Assets/Character Controllers/First Person Controller.prefab
+/Assets/_Samples/Standard Assets/Character Controllers/First Person Controller.prefab.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/PrototypeCharacter.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Constructor.FBX
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Constructor.FBX.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Materials.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Materials/constructor_done.mat
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Materials/constructor_done.mat.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_diffuse.png
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_diffuse.png.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_normals.png
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/PrototypeCharacter/Textures/constructor_normals.png.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/Scripts.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/Scripts/PlatformInputController.js
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/Scripts/PlatformInputController.js.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonCamera.js
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonCamera.js.meta
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js
+/Assets/_Samples/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js.meta
+/Assets/_Samples/Standard Assets/Light Cookies.meta
+/Assets/_Samples/Standard Assets/Light Cookies/Flashlight.tif
+/Assets/_Samples/Standard Assets/Light Cookies/Flashlight.tif.meta
+/Assets/_Samples/Standard Assets/Light Cookies/Flashlight_Irregular.tif
+/Assets/_Samples/Standard Assets/Light Cookies/Flashlight_Irregular.tif.meta
+/Assets/_Samples/Standard Assets/Light Cookies/Hard.psd
+/Assets/_Samples/Standard Assets/Light Cookies/Hard.psd.meta
+/Assets/_Samples/Standard Assets/Light Cookies/Soft.tif
+/Assets/_Samples/Standard Assets/Light Cookies/Soft.tif.meta
+/Assets/_Samples/Standard Assets/Light Cookies/square.psd
+/Assets/_Samples/Standard Assets/Light Cookies/square.psd.meta
+/Assets/_Samples/Standard Assets/Light Flares.meta
+/Assets/_Samples/Standard Assets/Light Flares/50mm Zoom.flare
+/Assets/_Samples/Standard Assets/Light Flares/50mm Zoom.flare.meta
+/Assets/_Samples/Standard Assets/Light Flares/Small Flare.flare
+/Assets/_Samples/Standard Assets/Light Flares/Small Flare.flare.meta
+/Assets/_Samples/Standard Assets/Light Flares/Sources.meta
+/Assets/_Samples/Standard Assets/Light Flares/Sources/Materials.meta
+/Assets/_Samples/Standard Assets/Light Flares/Sources/Materials/flare mat.mat
+/Assets/_Samples/Standard Assets/Light Flares/Sources/Materials/flare mat.mat.meta
+/Assets/_Samples/Standard Assets/Light Flares/Sources/Textures.meta
+/Assets/_Samples/Standard Assets/Light Flares/Sources/Textures/50mmflare.psd
+/Assets/_Samples/Standard Assets/Light Flares/Sources/Textures/50mmflare.psd.meta
+/Assets/_Samples/Standard Assets/Light Flares/Sources/Textures/starflare.psd
+/Assets/_Samples/Standard Assets/Light Flares/Sources/Textures/starflare.psd.meta
+/Assets/_Samples/Standard Assets/Light Flares/Sun.flare
+/Assets/_Samples/Standard Assets/Light Flares/Sun.flare.meta
+/Assets/_Samples/Standard Assets/Particles.meta
+/Assets/_Samples/Standard Assets/Particles/Dust.meta
+/Assets/_Samples/Standard Assets/Particles/Dust/Dust Storm.prefab
+/Assets/_Samples/Standard Assets/Particles/Dust/Dust Storm.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Fire.meta
+/Assets/_Samples/Standard Assets/Particles/Fire/Fire1.prefab
+/Assets/_Samples/Standard Assets/Particles/Fire/Fire1.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Fire/Flame.prefab
+/Assets/_Samples/Standard Assets/Particles/Fire/Flame.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Legacy Particles.meta
+/Assets/_Samples/Standard Assets/Particles/Legacy Particles/explosion.prefab
+/Assets/_Samples/Standard Assets/Particles/Legacy Particles/explosion.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Legacy Particles/large flames.prefab
+/Assets/_Samples/Standard Assets/Particles/Legacy Particles/large flames.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Legacy Particles/Small explosion.prefab
+/Assets/_Samples/Standard Assets/Particles/Legacy Particles/Small explosion.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Legacy Particles/small flames.prefab
+/Assets/_Samples/Standard Assets/Particles/Legacy Particles/small flames.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Legacy Particles/Sparks.prefab
+/Assets/_Samples/Standard Assets/Particles/Legacy Particles/Sparks.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Legacy Particles/TimedObjectDestructor.js
+/Assets/_Samples/Standard Assets/Particles/Legacy Particles/TimedObjectDestructor.js.meta
+/Assets/_Samples/Standard Assets/Particles/Misc.meta
+/Assets/_Samples/Standard Assets/Particles/Misc/Fireworks.prefab
+/Assets/_Samples/Standard Assets/Particles/Misc/Fireworks.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Misc/Light Snow.prefab
+/Assets/_Samples/Standard Assets/Particles/Misc/Light Snow.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Misc/Soap Bubbles.prefab
+/Assets/_Samples/Standard Assets/Particles/Misc/Soap Bubbles.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Misc/Sparks.prefab
+/Assets/_Samples/Standard Assets/Particles/Misc/Sparks.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Smoke.meta
+/Assets/_Samples/Standard Assets/Particles/Smoke/Detailed Smoke.prefab
+/Assets/_Samples/Standard Assets/Particles/Smoke/Detailed Smoke.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Smoke/Fluffy Smoke Large.prefab
+/Assets/_Samples/Standard Assets/Particles/Smoke/Fluffy Smoke Large.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Smoke/Fluffy Smoke.prefab
+/Assets/_Samples/Standard Assets/Particles/Smoke/Fluffy Smoke.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Smoke/Smoke Trail.prefab
+/Assets/_Samples/Standard Assets/Particles/Smoke/Smoke Trail.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Sources.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Animations.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Animations/Light explosion.anim
+/Assets/_Samples/Standard Assets/Particles/Sources/Animations/Light explosion.anim.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Animations/Stop Emitting ,5 sec.anim
+/Assets/_Samples/Standard Assets/Particles/Sources/Animations/Stop Emitting ,5 sec.anim.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Animations/Stop Emitting 1 sec.anim
+/Assets/_Samples/Standard Assets/Particles/Sources/Animations/Stop Emitting 1 sec.anim.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Animations/Stop Emitting 2 sec.anim
+/Assets/_Samples/Standard Assets/Particles/Sources/Animations/Stop Emitting 2 sec.anim.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Dust Material 1.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Dust Material 1.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Fairy Dust.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Fairy Dust.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Fire Add.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Fire Add.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Fire Smoke.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Fire Smoke.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/FlameA.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/FlameA.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/FlameB.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/FlameB.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/FlameC.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/FlameC.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/FlameD.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/FlameD.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/FlameE.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/FlameE.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Poof1.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Poof1.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Smoke Trail.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Smoke Trail.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Smoke.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Smoke.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Smoke1.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Smoke1.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Smoke2.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Smoke2.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Smoke3.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Smoke3.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Smoke4.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Smoke4.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Snowflake.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Snowflake.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/SoapBubble.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/SoapBubble.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Spark.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Spark.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Sparkles1.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Sparkles1.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Sparkles2.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Sparkles2.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Water Splash1.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Water Splash1.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Water Splash2.mat
+/Assets/_Samples/Standard Assets/Particles/Sources/Materials/Water Splash2.mat.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Shaders.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Shaders/Particle Alpha Blend (Queue +100).shader
+/Assets/_Samples/Standard Assets/Particles/Sources/Shaders/Particle Alpha Blend (Queue +100).shader.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/ColorFlare.png
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/ColorFlare.png.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/DustPoof.psd
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/DustPoof.psd.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/fairydust.tif
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/fairydust.tif.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/fire3.psd
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/fire3.psd.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/fire4.psd
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/fire4.psd.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/Fireball.psd
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/Fireball.psd.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/flameA.tif
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/flameA.tif.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/flameB.tif
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/flameB.tif.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/flameC.tif
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/flameC.tif.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/flameD.tif
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/flameD.tif.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/flameE.tif
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/flameE.tif.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/flametemplate.tif
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/flametemplate.tif.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/foam.tga
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/foam.tga.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/smoke.tif
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/smoke.tif.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/smoke2.tif
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/smoke2.tif.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/smoke3.tif
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/smoke3.tif.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/smoke4.tif
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/smoke4.tif.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/smokepuff1.psd
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/smokepuff1.psd.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/smoketest2.psd
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/smoketest2.psd.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/Snowflake.tif
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/Snowflake.tif.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/soapbubble.tif
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/soapbubble.tif.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/spark.tif
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/spark.tif.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/Star02.png
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/Star02.png.meta
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/SteamBlur.png
+/Assets/_Samples/Standard Assets/Particles/Sources/Textures/SteamBlur.png.meta
+/Assets/_Samples/Standard Assets/Particles/Sparkles.meta
+/Assets/_Samples/Standard Assets/Particles/Sparkles/Sparkle Rising.prefab
+/Assets/_Samples/Standard Assets/Particles/Sparkles/Sparkle Rising.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Water.meta
+/Assets/_Samples/Standard Assets/Particles/Water/Water Fountain.prefab
+/Assets/_Samples/Standard Assets/Particles/Water/Water Fountain.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Water/Water Surface Splash.prefab
+/Assets/_Samples/Standard Assets/Particles/Water/Water Surface Splash.prefab.meta
+/Assets/_Samples/Standard Assets/Particles/Water/WaterFall.prefab
+/Assets/_Samples/Standard Assets/Particles/Water/WaterFall.prefab.meta
+/Assets/_Samples/Standard Assets/Physic Materials.meta
+/Assets/_Samples/Standard Assets/Physic Materials/Bouncy.physicmaterial
+/Assets/_Samples/Standard Assets/Physic Materials/Bouncy.physicmaterial.meta
+/Assets/_Samples/Standard Assets/Physic Materials/Ice.physicmaterial
+/Assets/_Samples/Standard Assets/Physic Materials/Ice.physicmaterial.meta
+/Assets/_Samples/Standard Assets/Physic Materials/Metal.physicmaterial
+/Assets/_Samples/Standard Assets/Physic Materials/Metal.physicmaterial.meta
+/Assets/_Samples/Standard Assets/Physic Materials/Rubber.physicmaterial
+/Assets/_Samples/Standard Assets/Physic Materials/Rubber.physicmaterial.meta
+/Assets/_Samples/Standard Assets/Physic Materials/Wood.physicmaterial
+/Assets/_Samples/Standard Assets/Physic Materials/Wood.physicmaterial.meta
+/Assets/_Samples/Standard Assets/Projectors.meta
+/Assets/_Samples/Standard Assets/Projectors/Blob Light Projector.prefab
+/Assets/_Samples/Standard Assets/Projectors/Blob Light Projector.prefab.meta
+/Assets/_Samples/Standard Assets/Projectors/Blob Shadow Projector.prefab
+/Assets/_Samples/Standard Assets/Projectors/Blob Shadow Projector.prefab.meta
+/Assets/_Samples/Standard Assets/Projectors/Grid Projector.prefab
+/Assets/_Samples/Standard Assets/Projectors/Grid Projector.prefab.meta
+/Assets/_Samples/Standard Assets/Projectors/Guidelines.txt
+/Assets/_Samples/Standard Assets/Projectors/Guidelines.txt.meta
+/Assets/_Samples/Standard Assets/Projectors/Sources.meta
+/Assets/_Samples/Standard Assets/Projectors/Sources/Materials.meta
+/Assets/_Samples/Standard Assets/Projectors/Sources/Materials/Grid Material.mat
+/Assets/_Samples/Standard Assets/Projectors/Sources/Materials/Grid Material.mat.meta
+/Assets/_Samples/Standard Assets/Projectors/Sources/Materials/Light Material.mat
+/Assets/_Samples/Standard Assets/Projectors/Sources/Materials/Light Material.mat.meta
+/Assets/_Samples/Standard Assets/Projectors/Sources/Materials/Shadow Material.mat
+/Assets/_Samples/Standard Assets/Projectors/Sources/Materials/Shadow Material.mat.meta
+/Assets/_Samples/Standard Assets/Projectors/Sources/Shaders.meta
+/Assets/_Samples/Standard Assets/Projectors/Sources/Shaders/Projector Light.shader
+/Assets/_Samples/Standard Assets/Projectors/Sources/Shaders/Projector Light.shader.meta
+/Assets/_Samples/Standard Assets/Projectors/Sources/Shaders/Projector Multiply.shader
+/Assets/_Samples/Standard Assets/Projectors/Sources/Shaders/Projector Multiply.shader.meta
+/Assets/_Samples/Standard Assets/Projectors/Sources/Textures.meta
+/Assets/_Samples/Standard Assets/Projectors/Sources/Textures/Falloff.psd
+/Assets/_Samples/Standard Assets/Projectors/Sources/Textures/Falloff.psd.meta
+/Assets/_Samples/Standard Assets/Projectors/Sources/Textures/grid.psd
+/Assets/_Samples/Standard Assets/Projectors/Sources/Textures/grid.psd.meta
+/Assets/_Samples/Standard Assets/Projectors/Sources/Textures/Light.psd
+/Assets/_Samples/Standard Assets/Projectors/Sources/Textures/Light.psd.meta
+/Assets/_Samples/Standard Assets/Projectors/Sources/Textures/Shadow.psd
+/Assets/_Samples/Standard Assets/Projectors/Sources/Textures/Shadow.psd.meta
+/Assets/_Samples/Standard Assets/Scripts.meta
+/Assets/_Samples/Standard Assets/Scripts/Camera Scripts.meta
+/Assets/_Samples/Standard Assets/Scripts/Camera Scripts/MouseOrbit.js
+/Assets/_Samples/Standard Assets/Scripts/Camera Scripts/MouseOrbit.js.meta
+/Assets/_Samples/Standard Assets/Scripts/Camera Scripts/SmoothFollow.js
+/Assets/_Samples/Standard Assets/Scripts/Camera Scripts/SmoothFollow.js.meta
+/Assets/_Samples/Standard Assets/Scripts/Camera Scripts/SmoothLookAt.js
+/Assets/_Samples/Standard Assets/Scripts/Camera Scripts/SmoothLookAt.js.meta
+/Assets/_Samples/Standard Assets/Scripts/General Scripts.meta
+/Assets/_Samples/Standard Assets/Scripts/General Scripts/ActivateTrigger.cs
+/Assets/_Samples/Standard Assets/Scripts/General Scripts/ActivateTrigger.cs.meta
+/Assets/_Samples/Standard Assets/Scripts/General Scripts/DragRigidbody.js
+/Assets/_Samples/Standard Assets/Scripts/General Scripts/DragRigidbody.js.meta
+/Assets/_Samples/Standard Assets/Skyboxes.meta
+/Assets/_Samples/Standard Assets/Skyboxes/_skybox info.txt
+/Assets/_Samples/Standard Assets/Skyboxes/_skybox info.txt.meta
+/Assets/_Samples/Standard Assets/Skyboxes/DawnDusk Skybox.mat
+/Assets/_Samples/Standard Assets/Skyboxes/DawnDusk Skybox.mat.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Eerie Skybox.mat
+/Assets/_Samples/Standard Assets/Skyboxes/Eerie Skybox.mat.meta
+/Assets/_Samples/Standard Assets/Skyboxes/MoonShine Skybox.mat
+/Assets/_Samples/Standard Assets/Skyboxes/MoonShine Skybox.mat.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Overcast1 Skybox.mat
+/Assets/_Samples/Standard Assets/Skyboxes/Overcast1 Skybox.mat.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Overcast2 Skybox.mat
+/Assets/_Samples/Standard Assets/Skyboxes/Overcast2 Skybox.mat.meta
+/Assets/_Samples/Standard Assets/Skyboxes/StarryNight Skybox.mat
+/Assets/_Samples/Standard Assets/Skyboxes/StarryNight Skybox.mat.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Sunny1 Skybox.mat
+/Assets/_Samples/Standard Assets/Skyboxes/Sunny1 Skybox.mat.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Sunny2 Skybox.mat
+/Assets/_Samples/Standard Assets/Skyboxes/Sunny2 Skybox.mat.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Sunny3 Skybox.mat
+/Assets/_Samples/Standard Assets/Skyboxes/Sunny3 Skybox.mat.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/DawnDusk.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_back.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_back.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_down.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_down.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_front.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_front.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_left.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_left.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_right.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_right.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_up.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/DawnDusk/DawnDusk_up.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Eerie.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Eerie/Eerie_back.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Eerie/Eerie_back.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Eerie/Eerie_down.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Eerie/Eerie_down.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Eerie/Eerie_front.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Eerie/Eerie_front.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Eerie/Eerie_left.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Eerie/Eerie_left.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Eerie/Eerie_right.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Eerie/Eerie_right.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Eerie/Eerie_up.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Eerie/Eerie_up.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/MoonShine.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/MoonShine/MoonShine_back.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/MoonShine/MoonShine_back.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/MoonShine/MoonShine_down.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/MoonShine/MoonShine_down.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/MoonShine/MoonShine_front.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/MoonShine/MoonShine_front.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/MoonShine/MoonShine_left.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/MoonShine/MoonShine_left.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/MoonShine/MoonShine_right.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/MoonShine/MoonShine_right.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/MoonShine/MoonShine_up.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/MoonShine/MoonShine_up.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast1.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast1/Overcast1_back.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast1/Overcast1_back.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast1/Overcast1_down.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast1/Overcast1_down.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast1/Overcast1_front.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast1/Overcast1_front.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast1/Overcast1_left.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast1/Overcast1_left.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast1/Overcast1_right.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast1/Overcast1_right.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast1/Overcast1_up.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast1/Overcast1_up.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast2.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast2/Overcast2_back.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast2/Overcast2_back.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast2/Overcast2_down.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast2/Overcast2_down.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast2/Overcast2_front.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast2/Overcast2_front.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast2/Overcast2_left.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast2/Overcast2_left.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast2/Overcast2_right.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast2/Overcast2_right.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast2/Overcast2_up.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Overcast2/Overcast2_up.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/StarryNight.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/StarryNight/StarryNight_back.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/StarryNight/StarryNight_back.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/StarryNight/StarryNight_down.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/StarryNight/StarryNight_down.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/StarryNight/StarryNight_front.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/StarryNight/StarryNight_front.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/StarryNight/StarryNight_left.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/StarryNight/StarryNight_left.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/StarryNight/StarryNight_right.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/StarryNight/StarryNight_right.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/StarryNight/StarryNight_up.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/StarryNight/StarryNight_up.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny1.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_back.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_back.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_down.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_down.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_front.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_front.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_left.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_left.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_right.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_right.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_up.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny1/Sunny1_up.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny2.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny2/Sunny2_back.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny2/Sunny2_back.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny2/Sunny2_down.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny2/Sunny2_down.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny2/Sunny2_front.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny2/Sunny2_front.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny2/Sunny2_left.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny2/Sunny2_left.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny2/Sunny2_right.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny2/Sunny2_right.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny2/Sunny2_up.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny2/Sunny2_up.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny3.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_back.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_back.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_down.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_down.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_front.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_front.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_left.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_left.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_right.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_right.tif.meta
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_up.tif
+/Assets/_Samples/Standard Assets/Skyboxes/Textures/Sunny3/Sunny3_up.tif.meta
+/Assets/_Samples/Standard Assets/Terrain Assets.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Terrain Grass.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Terrain Grass/Grass.psd
+/Assets/_Samples/Standard Assets/Terrain Assets/Terrain Grass/Grass.psd.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Terrain Grass/Grass2.psd
+/Assets/_Samples/Standard Assets/Terrain Assets/Terrain Grass/Grass2.psd.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Terrain Textures.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Terrain Textures/Cliff (Layered Rock).psd
+/Assets/_Samples/Standard Assets/Terrain Assets/Terrain Textures/Cliff (Layered Rock).psd.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Terrain Textures/GoodDirt.psd
+/Assets/_Samples/Standard Assets/Terrain Assets/Terrain Textures/GoodDirt.psd.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Terrain Textures/Grass (Hill).psd
+/Assets/_Samples/Standard Assets/Terrain Assets/Terrain Textures/Grass (Hill).psd.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Terrain Textures/Grass&Rock.psd
+/Assets/_Samples/Standard Assets/Terrain Assets/Terrain Textures/Grass&Rock.psd.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Trees Ambient-Occlusion.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Trees Ambient-Occlusion/Palm.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Trees Ambient-Occlusion/Palm/Materials.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Trees Ambient-Occlusion/Palm/Materials/palmbark.mat
+/Assets/_Samples/Standard Assets/Terrain Assets/Trees Ambient-Occlusion/Palm/Materials/palmbark.mat.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Trees Ambient-Occlusion/Palm/Materials/palmbranch.mat
+/Assets/_Samples/Standard Assets/Terrain Assets/Trees Ambient-Occlusion/Palm/Materials/palmbranch.mat.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Trees Ambient-Occlusion/Palm/Palm.fbx
+/Assets/_Samples/Standard Assets/Terrain Assets/Trees Ambient-Occlusion/Palm/Palm.fbx.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Trees Ambient-Occlusion/Palm/PalmBark.psd
+/Assets/_Samples/Standard Assets/Terrain Assets/Trees Ambient-Occlusion/Palm/PalmBark.psd.meta
+/Assets/_Samples/Standard Assets/Terrain Assets/Trees Ambient-Occlusion/Palm/PalmBranch.psd
+/Assets/_Samples/Standard Assets/Terrain Assets/Trees Ambient-Occlusion/Palm/PalmBranch.psd.meta
+/Assets/_Samples/Standard Assets/Tessellation Shaders.meta
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example.meta
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example/_TessellationScene.unity
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example/_TessellationScene.unity.meta
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example/BumpedSpecular.mat
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example/BumpedSpecular.mat.meta
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example/BumpedSpecularDisplacement.mat
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example/BumpedSpecularDisplacement.mat.meta
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example/BumpedSpecularSmooth.mat
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example/BumpedSpecularSmooth.mat.meta
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example/CliffRock_DISP.png
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example/CliffRock_DISP.png.meta
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example/CliffRock_NRM.png
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example/CliffRock_NRM.png.meta
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example/LowPolySphere.fbx
+/Assets/_Samples/Standard Assets/Tessellation Shaders/_Example/LowPolySphere.fbx.meta
+/Assets/_Samples/Standard Assets/Tessellation Shaders/BumpedSpecularDisplacement.shader
+/Assets/_Samples/Standard Assets/Tessellation Shaders/BumpedSpecularDisplacement.shader.meta
+/Assets/_Samples/Standard Assets/Tessellation Shaders/BumpedSpecularSmooth.shader
+/Assets/_Samples/Standard Assets/Tessellation Shaders/BumpedSpecularSmooth.shader.meta
+/Assets/_Samples/Standard Assets/Toon Shading.meta
+/Assets/_Samples/Standard Assets/Toon Shading/_ToonShadingSample.unity
+/Assets/_Samples/Standard Assets/Toon Shading/_ToonShadingSample.unity.meta
+/Assets/_Samples/Standard Assets/Toon Shading/Sources.meta
+/Assets/_Samples/Standard Assets/Toon Shading/Sources/Shaders.meta
+/Assets/_Samples/Standard Assets/Toon Shading/Sources/Shaders/Toony-Basic.shader
+/Assets/_Samples/Standard Assets/Toon Shading/Sources/Shaders/Toony-Basic.shader.meta
+/Assets/_Samples/Standard Assets/Toon Shading/Sources/Shaders/Toony-BasicOutline.shader
+/Assets/_Samples/Standard Assets/Toon Shading/Sources/Shaders/Toony-BasicOutline.shader.meta
+/Assets/_Samples/Standard Assets/Toon Shading/Sources/Shaders/Toony-Lighted.shader
+/Assets/_Samples/Standard Assets/Toon Shading/Sources/Shaders/Toony-Lighted.shader.meta
+/Assets/_Samples/Standard Assets/Toon Shading/Sources/Shaders/Toony-LightedOutline.shader
+/Assets/_Samples/Standard Assets/Toon Shading/Sources/Shaders/Toony-LightedOutline.shader.meta
+/Assets/_Samples/Standard Assets/Toon Shading/Sources/Textures.meta
+/Assets/_Samples/Standard Assets/Toon Shading/Sources/Textures/toon ramp.png
+/Assets/_Samples/Standard Assets/Toon Shading/Sources/Textures/toon ramp.png.meta
+/Assets/_Samples/Standard Assets/Toon Shading/Sources/Textures/toony lighting.psd
+/Assets/_Samples/Standard Assets/Toon Shading/Sources/Textures/toony lighting.psd.meta
+/Assets/_Samples/Standard Assets/Toon Shading/Toony-Basic.mat
+/Assets/_Samples/Standard Assets/Toon Shading/Toony-Basic.mat.meta
+/Assets/_Samples/Standard Assets/Toon Shading/Toony-BasicOutline.mat
+/Assets/_Samples/Standard Assets/Toon Shading/Toony-BasicOutline.mat.meta
+/Assets/_Samples/Standard Assets/Toon Shading/Toony-Lighted Outline.mat
+/Assets/_Samples/Standard Assets/Toon Shading/Toony-Lighted Outline.mat.meta
+/Assets/_Samples/Standard Assets/Toon Shading/Toony-Lighted.mat
+/Assets/_Samples/Standard Assets/Toon Shading/Toony-Lighted.mat.meta
+/Assets/_Samples/Standard Assets/Tree Creator.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Materials.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Materials/BigTree_bark.mat
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Materials/BigTree_bark.mat.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Materials/BigTree_branches.mat
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Materials/BigTree_branches.mat.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Materials/BigTree_leaves.mat
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Materials/BigTree_leaves.mat.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/BigTree_bark_diffuse.jpg
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/BigTree_bark_diffuse.jpg.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/BigTree_bark_normal.jpg
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/BigTree_bark_normal.jpg.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/BigTree_branches.psd
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/BigTree_branches.psd.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/BigTree_leaves.psd
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/BigTree_leaves.psd.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/Palm Bark Diffuse.png
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/Palm Bark Diffuse.png.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/Palm Bark Normal.png
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/Palm Bark Normal.png.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/Palm Branch.psd
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/Palm Branch.psd.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/Palm Leaf Diffuse.tga
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/Palm Leaf Diffuse.tga.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/PalmBulb.psd
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/PalmBulb.psd.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/PalmBulb_NRM.tga
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/PalmBulb_NRM.tga.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/Pine Bark Diffuse.tga
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/Pine Bark Diffuse.tga.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/Pine Bark Normal.png
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/Pine Bark Normal.png.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/ScotsPinebranches1.psd
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/ScotsPinebranches1.psd.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/ScotsPinebranches2.psd
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/ScotsPinebranches2.psd.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/ScotsPinebranches3.psd
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/ScotsPinebranches3.psd.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/ScotsPinebranches4.psd
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/ScotsPinebranches4.psd.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/ScotsPinebranches5.psd
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/ScotsPinebranches5.psd.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/ScotsPineTrunk.psd
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/ScotsPineTrunk.psd.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/SycamoreBark.psd
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/SycamoreBark.psd.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/SycamoreBark_NRM.tga
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/SycamoreBark_NRM.tga.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/SycamoreLeaves1.psd
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/SycamoreLeaves1.psd.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/SycamoreLeaves2.psd
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/SycamoreLeaves2.psd.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/SycamoreLeaves3.psd
+/Assets/_Samples/Standard Assets/Tree Creator/Sources/Textures/SycamoreLeaves3.psd.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Trees.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Trees/BigTree.prefab
+/Assets/_Samples/Standard Assets/Tree Creator/Trees/BigTree.prefab.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Trees/BigTree_textures.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Trees/BigTree_textures/diffuse.png
+/Assets/_Samples/Standard Assets/Tree Creator/Trees/BigTree_textures/diffuse.png.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Trees/BigTree_textures/normal_specular.png
+/Assets/_Samples/Standard Assets/Tree Creator/Trees/BigTree_textures/normal_specular.png.meta
+/Assets/_Samples/Standard Assets/Tree Creator/Trees/BigTree_textures/translucency_gloss.png
+/Assets/_Samples/Standard Assets/Tree Creator/Trees/BigTree_textures/translucency_gloss.png.meta
+/Assets/_Samples/Standard Assets/Water (Basic).meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Daylight Simple Water.prefab
+/Assets/_Samples/Standard Assets/Water (Basic)/Daylight Simple Water.prefab.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Nighttime Simple Water.prefab
+/Assets/_Samples/Standard Assets/Water (Basic)/Nighttime Simple Water.prefab.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Materials.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Materials/Daylight Simple Water.mat
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Materials/Daylight Simple Water.mat.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Materials/Nighttime Simple Water.mat
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Materials/Nighttime Simple Water.mat.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Objects.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Objects/Materials.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Objects/Materials/water plane-lambert1.mat
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Objects/Materials/water plane-lambert1.mat.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Objects/Water Plane.fbx
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Objects/Water Plane.fbx.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Scripts.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Scripts/WaterSimple.cs
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Scripts/WaterSimple.cs.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Shaders.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Shaders/FX-Water Simple.shader
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Shaders/FX-Water Simple.shader.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Textures.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Textures/nightgradient cubemap.psd
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Textures/nightgradient cubemap.psd.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Textures/nightgradient.psd
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Textures/nightgradient.psd.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Textures/oceangradient.psd
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Textures/oceangradient.psd.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Textures/oceangradientcube.psd
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Textures/oceangradientcube.psd.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Textures/Water fallback.jpg
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Textures/Water fallback.jpg.meta
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Textures/Waterbump.jpg
+/Assets/_Samples/Standard Assets/Water (Basic)/Sources/Textures/Waterbump.jpg.meta
