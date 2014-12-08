@@ -1,49 +1,45 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class TargetShooter : MonoBehaviour {
+public class TargetShooter : MonoBehaviour
+{
 
-	//public float projectileSpeed = 100f;
-	public GameObject bulletPrefabOne;
+		//public float projectileSpeed = 100f;
+		public GameObject bulletPrefabOne;
 
-	public float fireRate = 0f;
-	public float damage = 10f;
-	public LayerMask whatToHit;
+		public float fireRate = 0f;
+		public float damage = 10f;
+		public LayerMask whatToHit;
 
-	float timeToFire = 0f;
-	Transform firePoint;
-	float bulletRight = 1;
+		float timeToFire = 0f;
+		Transform firePoint;
+		float bulletRight = 1;
 
 
-	// Use this for initialization
-	void Start () 
-	{
-		firePoint = transform.FindChild("MagicGunPoint");
-	}
+		// Use this for initialization
+		void Start ()
+		{
+				firePoint = transform.FindChild ("MagicGunPoint");
+		}
 	
-	// Update is called once per frame
-	void Update () 
-	{
-		//Shoot ();
-		if (fireRate == 0f)
+		// Update is called once per frame
+		void Update ()
 		{
-			if (Input.GetButtonDown("Fire1"))
-			{
-				ShootForward();
-			}
-		}
-		else
-		{
-			if (Input.GetButton("Fire1") && Time.time > timeToFire)
-			{
-				timeToFire = Time.time + 1 / fireRate;
-				ShootForward();
-			}
+				//Shoot ();
+				if (fireRate == 0f) {
+						if (Input.GetButtonDown ("Fire1")) {
+								ShootForward ();
+						}
+				} else {
+						if (Input.GetButton ("Fire1") && Time.time > timeToFire) {
+								timeToFire = Time.time + 1 / fireRate;
+								ShootForward ();
+						}
+				}
+
 		}
 
-	}
-
-	/* Shooting to cursor mode
+		/* Shooting to cursor mode
 	void Shoot()
 	{
 		Vector2 mousePosition = new Vector2(Camera.main.ScreenToWorldPoint(Input.mousePosition).x, Camera.main.ScreenToWorldPoint(Input.mousePosition).y);
@@ -65,10 +61,12 @@ public class TargetShooter : MonoBehaviour {
 		}
 	} */
 
-	void ShootForward()
-	{
-		bulletRight = transform.parent.localScale.x;
-		GameObject newBullet = Instantiate(bulletPrefabOne, firePoint.position, transform.rotation) as GameObject;
-		newBullet.transform.localScale = new Vector3(bulletRight, newBullet.transform.localScale.y, newBullet.transform.localScale.z);
-	}
+		void ShootForward ()
+		{
+				bulletRight = transform.parent.localScale.x;
+				GameObject newBullet = Instantiate (bulletPrefabOne, firePoint.position, transform.rotation) as GameObject;
+
+				//bulletRight - scale.x of bullet
+				newBullet.transform.localScale = new Vector3 (bulletRight, newBullet.transform.localScale.y, newBullet.transform.localScale.z);
+		}
 }
