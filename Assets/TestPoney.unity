@@ -108,8 +108,8 @@ SpriteRenderer:
   m_UseLightProbes: 0
   m_LightProbeAnchor: {fileID: 0}
   m_ScaleInLightmap: 1
-  m_SortingLayerID: 0
-  m_SortingOrder: -1
+  m_SortingLayerID: 1093696345
+  m_SortingOrder: -5
   m_Sprite: {fileID: 21300000, guid: e634b737ef3641c47b73ab26ee34b581, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
 --- !u!4 &21998109
@@ -234,7 +234,7 @@ SpriteRenderer:
   m_UseLightProbes: 0
   m_LightProbeAnchor: {fileID: 0}
   m_ScaleInLightmap: 1
-  m_SortingLayerID: 0
+  m_SortingLayerID: 3940858523
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 4b97d80f9ccec7047881153ee028c800, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -391,7 +391,7 @@ GameObject:
   m_Layer: 9
   m_Name: GroundCheck1
   m_TagString: Untagged
-  m_Icon: {fileID: -1500306622, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -516,7 +516,7 @@ GameObject:
   m_Layer: 9
   m_Name: GroundCheck2
   m_TagString: Untagged
-  m_Icon: {fileID: -1500306622, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -586,7 +586,7 @@ SpriteRenderer:
   m_SortingLayerID: 3940858523
   m_SortingOrder: 5
   m_Sprite: {fileID: 21300000, guid: c47e3b078cd11a0478d987b4cb7945dd, type: 3}
-  m_Color: {r: 0, g: 0, b: 0, a: .784313738}
+  m_Color: {r: 0, g: 0, b: 0, a: .760784328}
 --- !u!4 &2085969611
 Transform:
   m_ObjectHideFlags: 0
@@ -594,7 +594,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2085969608}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -.720000029, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2141744222}
@@ -646,8 +646,9 @@ GameObject:
   m_Component:
   - 4: {fileID: 2141744222}
   - 212: {fileID: 2141744223}
-  - 61: {fileID: 2141744226}
   - 61: {fileID: 2141744228}
+  - 61: {fileID: 2141744226}
+  - 60: {fileID: 2141744227}
   - 95: {fileID: 2141744229}
   - 50: {fileID: 2141744225}
   - 114: {fileID: 2141744230}
@@ -695,7 +696,7 @@ SpriteRenderer:
   m_LightProbeAnchor: {fileID: 0}
   m_ScaleInLightmap: 1
   m_SortingLayerID: 3940858523
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: c47e3b078cd11a0478d987b4cb7945dd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &2141744224
@@ -735,6 +736,61 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_Size: {x: 1, y: 1.20000005}
   m_Center: {x: 0, y: -.0500000007}
+--- !u!60 &2141744227
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2141744221}
+  m_Enabled: 0
+  m_Material: {fileID: 6200000, guid: a94c8754b76247d4f874010874df87df, type: 2}
+  m_IsTrigger: 0
+  m_Poly:
+    m_Paths:
+    - - {x: .370000005, y: .0299999993}
+      - {x: .649999976, y: .0199999996}
+      - {x: .689999998, y: .109999999}
+      - {x: .689999998, y: .200000003}
+      - {x: .730000019, y: .379999995}
+      - {x: .730000019, y: .550000012}
+      - {x: .720000029, y: .610000014}
+      - {x: .529999971, y: .75999999}
+      - {x: .5, y: .790000021}
+      - {x: .200000003, y: .790000021}
+      - {x: .0500000007, y: .75999999}
+      - {x: -.0700000003, y: .589999974}
+      - {x: -.219999999, y: .370000005}
+      - {x: -.349999994, y: .360000014}
+      - {x: -.620000005, y: .310000002}
+      - {x: -.720000029, y: .170000002}
+      - {x: -.720000029, y: -.0399999991}
+      - {x: -.709999979, y: -.389999986}
+      - {x: -.620000005, y: -.569999993}
+      - {x: -.569999993, y: -.589999974}
+      - {x: -.50999999, y: -.5}
+      - {x: -.50999999, y: -.479999989}
+      - {x: -.49000001, y: -.439999998}
+      - {x: -.469999999, y: -.409999996}
+      - {x: -.49000001, y: -.439999998}
+      - {x: -.5, y: -.49000001}
+      - {x: -.529999971, y: -.550000012}
+      - {x: -.560000002, y: -.730000019}
+      - {x: -.439999998, y: -.75999999}
+      - {x: .00999999978, y: -.75999999}
+      - {x: .100000001, y: -.709999979}
+      - {x: .159999996, y: -.670000017}
+      - {x: .129999995, y: -.400000006}
+    - - {x: -.389999986, y: -.189999998}
+      - {x: -.409999996, y: -.159999996}
+      - {x: -.439999998, y: -.109999999}
+      - {x: -.439999998, y: -.0799999982}
+      - {x: -.419999987, y: -.0900000036}
+      - {x: -.419999987, y: -.189999998}
+      - {x: -.409999996, y: -.239999995}
+      - {x: -.400000006, y: -.25}
+      - {x: -.400000006, y: -.270000011}
+      - {x: -.439999998, y: -.340000004}
+      - {x: -.400000006, y: -.330000013}
 --- !u!61 &2141744228
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -742,7 +798,7 @@ BoxCollider2D:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2141744221}
   m_Enabled: 1
-  m_Material: {fileID: 6200000, guid: a94c8754b76247d4f874010874df87df, type: 2}
+  m_Material: {fileID: 6200000, guid: 539a5ecfb07e251469e29af4fe2b72b6, type: 2}
   m_IsTrigger: 0
   m_Size: {x: 1, y: .0599999987}
   m_Center: {x: 0, y: -.680000007}
@@ -774,7 +830,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxSpeed: 3
   jumpForce: 700
-  crouchSpeed: .360000014
   airControl: 1
   whatIsGround:
     serializedVersion: 2

@@ -65,8 +65,12 @@ public class TargetShooter : MonoBehaviour
 		{
 				bulletRight = transform.parent.localScale.x;
 				GameObject newBullet = Instantiate (bulletPrefabOne, firePoint.position, transform.rotation) as GameObject;
-
 				//bulletRight - scale.x of bullet
 				newBullet.transform.localScale = new Vector3 (bulletRight, newBullet.transform.localScale.y, newBullet.transform.localScale.z);
+		}
+
+		void ShootForwardEffect ()
+		{
+			
 		}
 }
